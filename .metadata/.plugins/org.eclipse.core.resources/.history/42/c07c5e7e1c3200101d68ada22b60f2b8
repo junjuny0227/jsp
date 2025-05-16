@@ -1,0 +1,26 @@
+const fnSub2FormCheck = () => {
+	const stuid = document.sub2Form.stuid.value;
+	const midScore = document.sub2Form.midScore.value;
+	const finalScore = document.sub2Form.finalScore.value;
+	const attend = document.sub2Form.attend.value;
+	const report = document.sub2Form.report.value;
+	const etc = document.sub2Form.etc.value;
+
+	if (stuid === "" || stuid.trim().length === 0) {
+		alert("학번이 입력되지 않았습니다.");
+		document.sub2Form.stuid.focus();
+		return false;
+	}
+}
+
+const fnSub4FormCheck = () => {
+  const searchSubcode = document.sub4Form.searchSubcode.value;
+
+  if (searchSubcode === "" || searchSubcode.trim().length === 0) {
+    alert("과목코드가 입력되지 않았습니다.");
+    document.sub4Form.searchSubcode.focus();
+    return false;
+  }
+
+  document.sub4Form.submit();
+};

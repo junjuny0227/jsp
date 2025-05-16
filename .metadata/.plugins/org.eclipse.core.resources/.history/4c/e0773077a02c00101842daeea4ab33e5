@@ -1,0 +1,7 @@
+package exam;
+
+public class SubjectDTO {
+	private String stuid, sname, deptname, subname, grade;
+	private int midscore, finalscore, attend, report, etc;
+	private double total
+} // class

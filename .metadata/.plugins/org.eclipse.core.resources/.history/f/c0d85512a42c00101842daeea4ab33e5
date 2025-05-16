@@ -1,0 +1,20 @@
+<%@page import="exam.SubjectDTO"%>
+<%@page import="java.util.List"%>
+<%@page import="exam.StudentDAO"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+pageEncoding="UTF-8"%>
+<%
+request.setCharacterEncoding("utf-8");
+String searchSubcode = request.getParameter("searchSubcode");
+
+StudentDAO dao = new StudentDAO();
+List<SubjectDTO> list = dao.selectSub4(searchSubcode);
+%>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Sub4Action</title>
+  </head>
+  <body></body>
+</html>

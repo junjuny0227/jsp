@@ -1,0 +1,189 @@
+
+4월 04, 2025 13:37:38.15 NEW SESSION
+4월 04, 2025 13:37:38.16 [23880:12412:0404/133738.153:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 04, 2025 13:37:39.33 Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 04, 2025 13:38:07.81 [23880:12412:0404/133807.816:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 04, 2025 13:38:49.48 [23880:12412:0404/133849.488:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 04, 2025 13:40:16.36 [23880:12412:0404/134016.365:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 04, 2025 13:43:48.27 [23880:12412:0404/134348.271:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 04, 2025 13:50:22.64 [23880:12412:0404/135022.647:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 04, 2025 13:58:27.47 [23880:19940:0404/135827.469:ERROR:new_tab_page_handler.cc(1341)] NewTabPage loaded into a non-browser-tab context
+4월 04, 2025 13:58:31.37 [23880:19940:0404/135831.372:ERROR:pref_model_associator.cc(148)] Failed to deserialize value of preference 'sync.demographics': EOF while parsing a value at line 1 column 0
+4월 04, 2025 13:58:31.76 [23880:12412:0404/135831.761:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 04, 2025 13:58:55.60 [23880:12412:0404/135855.603:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 04, 2025 13:59:47.16 [23880:12412:0404/135947.167:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 04, 2025 14:01:30.82 [23880:12412:0404/140130.820:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 04, 2025 14:05:28.39 [23880:12412:0404/140528.391:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 04, 2025 14:12:06.82 [23880:12412:0404/141206.824:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 04, 2025 14:14:11.53 [23880:19940:0404/141411.538:ERROR:CONSOLE(77)] "Uncaught (in promise) TypeError: o.applyStyleSheet is not a function", source: chrome-extension://jmefikbdhgocdjeejjnnepgnfkkbpgjo/devtools.332ed385.js (77)
+4월 04, 2025 14:14:14.51 [23880:19940:0404/141414.514:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 04, 2025 14:14:14.51 [23880:19940:0404/141414.514:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 04, 2025 14:14:14.51 [23880:19940:0404/141414.514:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 04, 2025 14:14:14.51 [23880:19940:0404/141414.514:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 04, 2025 14:14:21.31 [23880:19940:0404/141421.314:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 04, 2025 14:14:21.31 [23880:19940:0404/141421.314:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 04, 2025 14:14:21.31 [23880:19940:0404/141421.314:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 04, 2025 14:14:21.31 [23880:19940:0404/141421.314:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 04, 2025 14:15:04.59 [23880:12412:0404/141504.591:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 04, 2025 14:15:25.96 [23880:12412:0404/141525.961:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 04, 2025 14:16:18.65 [23880:12412:0404/141618.656:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 04, 2025 14:17:46.61 [23880:12412:0404/141746.614:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 04, 2025 14:21:00.76 [23880:12412:0404/142100.767:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 04, 2025 14:26:47.43 [23880:12412:0404/142647.432:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 04, 2025 15:55:59.89 [7656:18752:0404/155559.896:ERROR:pref_model_associator.cc(148)] Failed to deserialize value of preference 'sync.demographics': EOF while parsing a value at line 1 column 0
+4월 04, 2025 15:56:03.75 [7656:19200:0404/155603.754:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 04, 2025 15:56:03.79 Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 04, 2025 15:56:25.27 [7656:19200:0404/155625.270:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 04, 2025 15:57:06.81 [7656:19200:0404/155706.811:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 04, 2025 15:58:53.01 [7656:19200:0404/155853.012:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 04, 2025 16:02:29.71 [7656:19200:0404/160229.714:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 04, 2025 16:08:16.61 [7656:19200:0404/160816.614:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+4월 25, 2025 13:32:43.53 NEW SESSION
+4월 25, 2025 13:32:43.53 [1420:10636:0425/133243.530:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 25, 2025 13:32:44.22 Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 25, 2025 13:33:06.34 [1420:10636:0425/133306.344:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 25, 2025 13:33:48.57 [1420:10636:0425/133348.578:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 25, 2025 13:35:45.53 [1420:10636:0425/133545.530:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 25, 2025 13:37:35.76 [1420:6812:0425/133735.766:ERROR:interface_endpoint_client.cc(725)] Message 0 rejected by interface blink.mojom.WidgetHost
+4월 25, 2025 13:38:47.60 [1420:10636:0425/133847.600:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 25, 2025 13:45:02.62 [1420:10636:0425/134502.621:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 25, 2025 13:48:26.31 [1420:6812:0425/134826.312:ERROR:pref_model_associator.cc(150)] Failed to deserialize value of preference 'sync.demographics': EOF while parsing a value at line 1 column 0
+4월 25, 2025 13:48:27.09 [1420:10636:0425/134827.069:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 25, 2025 13:48:46.56 [1420:10636:0425/134846.567:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 25, 2025 13:48:53.05 [1420:10636:0425/134853.059:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 25, 2025 13:49:01.00 [1420:6812:0425/134901.002:ERROR:new_tab_page_handler.cc(1345)] NewTabPage loaded into a non-browser-tab context
+4월 25, 2025 13:49:47.53 [1420:10636:0425/134947.538:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 25, 2025 13:51:23.02 [1420:10636:0425/135123.026:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 25, 2025 13:55:21.65 [1420:10636:0425/135521.651:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 25, 2025 14:02:48.43 [1420:10636:0425/140248.431:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 25, 2025 14:20:05.25 [1420:6812:0425/142005.258:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:20:05.25 [1420:6812:0425/142005.258:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:20:05.26 [1420:6812:0425/142005.258:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:20:05.26 [1420:6812:0425/142005.258:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:20:05.42 [1420:6812:0425/142005.425:ERROR:CONSOLE(77)] "Uncaught (in promise) TypeError: o.applyStyleSheet is not a function", source: chrome-extension://jmefikbdhgocdjeejjnnepgnfkkbpgjo/devtools.332ed385.js (77)
+4월 25, 2025 14:20:40.37 [1420:6812:0425/142040.373:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:20:40.37 [1420:6812:0425/142040.373:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:20:40.37 [1420:6812:0425/142040.373:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:20:40.37 [1420:6812:0425/142040.373:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:21:14.88 [1420:6812:0425/142114.882:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:21:14.88 [1420:6812:0425/142114.882:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:21:14.88 [1420:6812:0425/142114.882:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:21:14.88 [1420:6812:0425/142114.882:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:21:16.00 [1420:6812:0425/142116.006:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:21:16.00 [1420:6812:0425/142116.006:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:21:16.00 [1420:6812:0425/142116.006:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:21:16.00 [1420:6812:0425/142116.006:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:21:23.86 [1420:6812:0425/142123.866:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:21:23.86 [1420:6812:0425/142123.866:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:21:23.86 [1420:6812:0425/142123.866:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:21:23.86 [1420:6812:0425/142123.866:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:21:31.64 [1420:6812:0425/142131.644:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:21:31.64 [1420:6812:0425/142131.644:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:21:31.64 [1420:6812:0425/142131.644:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:21:31.64 [1420:6812:0425/142131.644:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:21:31.64 [1420:6812:0425/142131.646:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:21:31.64 [1420:6812:0425/142131.646:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/core/sdk/sdk.js (1)
+4월 25, 2025 14:21:31.64 [1420:6812:0425/142131.646:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/models/extensions/extensions.js (1)
+4월 25, 2025 14:29:21.44 [1420:6812:0425/142921.443:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:29:21.44 [1420:6812:0425/142921.443:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:29:21.44 [1420:6812:0425/142921.443:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:29:21.44 [1420:6812:0425/142921.445:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:29:21.62 [1420:6812:0425/142921.621:ERROR:CONSOLE(77)] "Uncaught (in promise) TypeError: o.applyStyleSheet is not a function", source: chrome-extension://jmefikbdhgocdjeejjnnepgnfkkbpgjo/devtools.332ed385.js (77)
+4월 25, 2025 14:30:44.33 [1420:6812:0425/143044.339:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:30:44.34 [1420:6812:0425/143044.339:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:30:44.34 [1420:6812:0425/143044.339:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:30:44.34 [1420:6812:0425/143044.339:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:30:51.16 [1420:6812:0425/143051.165:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:30:51.16 [1420:6812:0425/143051.165:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:30:51.16 [1420:6812:0425/143051.165:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:30:51.16 [1420:6812:0425/143051.165:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:30:51.91 [1420:6812:0425/143051.910:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:30:51.91 [1420:6812:0425/143051.910:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:30:51.91 [1420:6812:0425/143051.910:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:30:51.91 [1420:6812:0425/143051.910:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:31:07.86 [1420:6812:0425/143107.864:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:31:07.86 [1420:6812:0425/143107.864:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:31:07.86 [1420:6812:0425/143107.864:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:31:07.86 [1420:6812:0425/143107.864:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:31:07.99 [1420:6812:0425/143107.997:ERROR:CONSOLE(77)] "Uncaught (in promise) TypeError: o.applyStyleSheet is not a function", source: chrome-extension://jmefikbdhgocdjeejjnnepgnfkkbpgjo/devtools.332ed385.js (77)
+4월 25, 2025 14:31:25.97 [1420:6812:0425/143125.970:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:31:25.97 [1420:6812:0425/143125.970:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:31:25.97 [1420:6812:0425/143125.970:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:31:25.97 [1420:6812:0425/143125.970:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:31:29.36 [1420:6812:0425/143129.368:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:31:29.36 [1420:6812:0425/143129.368:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:31:29.36 [1420:6812:0425/143129.368:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:31:29.36 [1420:6812:0425/143129.368:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:31:29.46 [1420:6812:0425/143129.468:ERROR:CONSOLE(77)] "Uncaught (in promise) TypeError: o.applyStyleSheet is not a function", source: chrome-extension://jmefikbdhgocdjeejjnnepgnfkkbpgjo/devtools.332ed385.js (77)
+4월 25, 2025 14:31:38.00 [1420:6812:0425/143138.001:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:31:38.00 [1420:6812:0425/143138.001:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:31:38.00 [1420:6812:0425/143138.001:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+4월 25, 2025 14:31:38.00 [1420:6812:0425/143138.001:ERROR:CONSOLE(1)] "Request Extensions.getStorageItems failed. {"code":-32600,"message":"Extension not found."}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+
+4월 30, 2025 16:09:00.20 NEW SESSION
+4월 30, 2025 16:09:00.22 [17856:16504:0430/160900.205:ERROR:pref_model_associator.cc(150)] Failed to deserialize value of preference 'sync.demographics': EOF while parsing a value at line 1 column 0
+4월 30, 2025 16:09:03.54 [17856:13316:0430/160903.543:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+4월 30, 2025 16:09:04.47 Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 30, 2025 16:09:27.52 [17856:13316:0430/160927.523:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+5월 02, 2025 24:32:55.94 NEW SESSION
+5월 02, 2025 24:32:55.96 [14488:9192:0502/003255.944:ERROR:pref_model_associator.cc(150)] Failed to deserialize value of preference 'sync.demographics': EOF while parsing a value at line 1 column 0
+5월 02, 2025 24:33:00.31 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 02, 2025 24:33:00.87 [14488:8060:0502/003300.878:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+5월 02, 2025 24:33:01.16 [14488:9192:0502/003301.169:ERROR:CONSOLE(77)] "Uncaught (in promise) TypeError: o.applyStyleSheet is not a function", source: chrome-extension://jmefikbdhgocdjeejjnnepgnfkkbpgjo/devtools.332ed385.js (77)
+5월 02, 2025 24:33:23.42 [14488:8060:0502/003323.420:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+5월 02, 2025 24:34:22.10 [14488:8060:0502/003422.100:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+5월 02, 2025 24:35:59.66 [14488:8060:0502/003559.663:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+5월 02, 2025 24:37:51.32 [14488:9192:0502/003751.320:ERROR:CONSOLE(77)] "Uncaught (in promise) TypeError: o.applyStyleSheet is not a function", source: chrome-extension://jmefikbdhgocdjeejjnnepgnfkkbpgjo/devtools.332ed385.js (77)
+5월 02, 2025 24:37:52.77 [14488:9192:0502/003752.771:ERROR:CONSOLE(77)] "Uncaught (in promise) TypeError: o.applyStyleSheet is not a function", source: chrome-extension://jmefikbdhgocdjeejjnnepgnfkkbpgjo/devtools.332ed385.js (77)
+5월 02, 2025 24:38:54.04 [14488:8060:0502/003854.047:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+
+5월 02, 2025 13:37:10.73 NEW SESSION
+5월 02, 2025 13:37:10.74 [16388:1648:0502/133710.734:ERROR:pref_model_associator.cc(150)] Failed to deserialize value of preference 'sync.demographics': EOF while parsing a value at line 1 column 0
+5월 02, 2025 13:37:13.02 [16388:16572:0502/133713.020:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+5월 02, 2025 13:37:13.97 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 02, 2025 13:37:41.60 [16388:16572:0502/133741.607:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+5월 02, 2025 13:38:33.67 [16388:1648:0502/133833.674:ERROR:CONSOLE(77)] "Uncaught (in promise) TypeError: o.applyStyleSheet is not a function", source: chrome-extension://jmefikbdhgocdjeejjnnepgnfkkbpgjo/devtools.332ed385.js (77)
+5월 02, 2025 13:38:39.15 [16388:1648:0502/133839.158:ERROR:CONSOLE(1)] "Cannot find context with specified id", source: devtools://devtools/bundled/core/sdk/sdk.js (1)
+5월 02, 2025 13:38:39.16 [16388:1648:0502/133839.158:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: Cannot find context with specified id", source: devtools://devtools/bundled/models/extensions/extensions.js (1)
+5월 02, 2025 13:38:39.24 [16388:16572:0502/133839.249:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+5월 02, 2025 13:38:41.08 [16388:1648:0502/133841.077:ERROR:CONSOLE(1)] "Cannot find context with specified id", source: devtools://devtools/bundled/core/sdk/sdk.js (1)
+5월 02, 2025 13:38:41.08 [16388:1648:0502/133841.081:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: Cannot find context with specified id", source: devtools://devtools/bundled/models/extensions/extensions.js (1)
+5월 02, 2025 13:40:32.74 [16388:16572:0502/134032.742:ERROR:registration_request.cc(291)] Registration response error message: QUOTA_EXCEEDED
+5월 02, 2025 13:42:27.56 [16388:1648:0502/134227.569:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+5월 02, 2025 13:42:27.57 [16388:1648:0502/134227.569:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/core/sdk/sdk.js (1)
+5월 02, 2025 13:42:27.57 [16388:1648:0502/134227.569:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/models/extensions/extensions.js (1)
+5월 02, 2025 13:43:23.82 [16388:1648:0502/134323.823:ERROR:CONSOLE(1)] "Request Runtime.evaluate failed. {"code":-32602,"message":"uniqueContextId not found"}", source: devtools://devtools/bundled/core/protocol_client/protocol_client.js (1)
+5월 02, 2025 13:43:23.82 [16388:1648:0502/134323.823:ERROR:CONSOLE(1)] "uniqueContextId not found", source: devtools://devtools/bundled/core/sdk/sdk.js (1)
+5월 02, 2025 13:43:23.82 [16388:1648:0502/134323.823:ERROR:CONSOLE(1)] "Extension server error: Inspector protocol error: uniqueContextId not found", source: devtools://devtools/bundled/models/extensions/extensions.js (1)
+5월 02, 2025 13:51:13.99 [16388:1648:0502/135113.993:ERROR:CONSOLE(77)] "Uncaught (in promise) TypeError: o.applyStyleSheet is not a function", source: chrome-extension://jmefikbdhgocdjeejjnnepgnfkkbpgjo/devtools.332ed385.js (77)
+
+5월 02, 2025 15:26:39.43 NEW SESSION
+5월 02, 2025 15:26:39.44 [5288:7336:0502/152639.432:ERROR:pref_model_associator.cc(150)] Failed to deserialize value of preference 'sync.demographics': EOF while parsing a value at line 1 column 0
+5월 02, 2025 15:26:42.27 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 02, 2025 15:26:43.62 [5288:4124:0502/152643.628:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+5월 02, 2025 15:27:12.21 [5288:4124:0502/152712.209:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+5월 02, 2025 15:28:00.04 [5288:4124:0502/152800.042:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+5월 02, 2025 15:29:31.53 [5288:4124:0502/152931.534:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+5월 02, 2025 15:32:57.17 [5288:4124:0502/153257.178:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+5월 02, 2025 15:38:50.57 [5288:4124:0502/153850.575:ERROR:registration_request.cc(291)] Registration response error message: DEPRECATED_ENDPOINT
+5월 02, 2025 15:44:24.64 [5288:7336:0502/154424.646:ERROR:CONSOLE(77)] "Uncaught (in promise) TypeError: o.applyStyleSheet is not a function", source: chrome-extension://jmefikbdhgocdjeejjnnepgnfkkbpgjo/devtools.332ed385.js (77)
+5월 02, 2025 16:16:55.93 [5288:7336:0502/161655.933:ERROR:CONSOLE(77)] "Uncaught (in promise) TypeError: o.applyStyleSheet is not a function", source: chrome-extension://jmefikbdhgocdjeejjnnepgnfkkbpgjo/devtools.332ed385.js (77)
+
+5월 09, 2025 13:35:19.71 NEW SESSION
+5월 09, 2025 13:35:19.72 [13212:12980:0509/133519.712:ERROR:components\sync_preferences\pref_model_associator.cc:150] Failed to deserialize value of preference 'sync.demographics': EOF while parsing a value at line 1 column 0
+5월 09, 2025 13:35:22.00 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 09, 2025 13:35:22.37 [13212:6136:0509/133522.374:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+5월 09, 2025 13:35:42.65 [13212:6136:0509/133542.656:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+5월 09, 2025 13:36:42.60 [13212:6136:0509/133642.602:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+5월 09, 2025 13:38:17.80 [13212:6136:0509/133817.804:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+5월 09, 2025 13:38:35.45 [13212:12980:0509/133835.459:ERROR:CONSOLE:77] "Uncaught (in promise) TypeError: o.applyStyleSheet is not a function", source: chrome-extension://jmefikbdhgocdjeejjnnepgnfkkbpgjo/devtools.332ed385.js (77)
+5월 09, 2025 13:39:02.29 [13212:12980:0509/133902.295:ERROR:CONSOLE:77] "Uncaught (in promise) TypeError: o.applyStyleSheet is not a function", source: chrome-extension://jmefikbdhgocdjeejjnnepgnfkkbpgjo/devtools.332ed385.js (77)
+5월 09, 2025 13:41:28.14 [13212:6136:0509/134128.145:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+5월 09, 2025 13:46:52.29 [13212:6136:0509/134652.292:ERROR:google_apis\gcm\engine\registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+5월 09, 2025 13:46:58.07 [13212:12980:0509/134658.079:ERROR:CONSOLE:0] "[Report Only] Refused to frame 'https://ogs.google.com/' because an ancestor violates the following Content Security Policy directive: "frame-ancestors 'self'".
+5월 09, 2025 13:46:58.08 ", source:  (0)
+5월 09, 2025 13:46:58.08 [13212:12980:0509/134658.079:ERROR:CONSOLE:0] "[Report Only] Refused to frame 'https://ogs.google.com/' because an ancestor violates the following Content Security Policy directive: "frame-ancestors 'self'".
+5월 09, 2025 13:46:58.08 ", source:  (0)
+5월 09, 2025 14:15:53.88 [13212:12980:0509/141553.887:ERROR:CONSOLE:77] "Uncaught (in promise) TypeError: o.applyStyleSheet is not a function", source: chrome-extension://jmefikbdhgocdjeejjnnepgnfkkbpgjo/devtools.332ed385.js (77)
